@@ -2,6 +2,7 @@
 - 👀 I’m interested in DSP, AI and military science
 - 🌱 I graduated from BMSTU
 - ~~💞️ empty string~~
+
 ![monkey](end.gif)
 <!---
 tekcellat/tekcellat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
