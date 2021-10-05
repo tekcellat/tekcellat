@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Hasanzade Mahammadali, @tekcellat
+- 🪖🇦🇿 In military service till 10.2022
 - 👀 Interested in DSP, AI and military science
 - 🎓 BMSTU bachelor degree
 - 🧐 Learning something-sometimes
